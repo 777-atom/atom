@@ -1,14 +1,11 @@
-#Автор канала 777-atom
+#Author of channel 777-atom
 
-Меня зовут Владислав Минибулатович, моё хобби программирование уже давно...
+My name is Vladislav Minibulatovich, my passion for programming has been around for a long time...
 
-Обучаюсь языками Python, C++, C# и недавно Git, GitHub. Пока еще в процессе...
+I study Python, C++, C# and recently Git, GitHub. Still in process...
 
-GitHub
-https://github.com/777-atom
+GitHub https://github.com/777-atom
 
-Telegram
-@prog_atom
+Telegram @prog_atom
 
-Vkontakte
-https://vk.com/sport_forever111
+VKontakte https://vk.com/sport_forever111
