@@ -1,6 +1,7 @@
 #Author of channel 777-atom
 
 My name is Vladislav, my passion for programming has been around for a long time...
+My health has been shaken, but I am full of strength and energy to make discoveries for myself.
 
 I study Python, C++, C# and recently Git, GitHub. Still in process...
 
